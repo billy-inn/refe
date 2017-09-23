@@ -1,0 +1,6 @@
+__pycache__/
+*.swp
+*.py[cod]
+utils/__pycache__/
+
+data/*
